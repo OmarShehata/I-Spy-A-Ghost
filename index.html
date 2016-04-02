@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Ghost Game</title>
+        <!-- Load our third party libaries -->
+        <script src="lib/phaser.min.js"></script>
+        <script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>
+        <script src="lib/peer.js"></script>
+        <!-- Some simple styles and fonts -->
+        <link rel="stylesheet" type="text/css" href="src/style.css">
+    </head>
+    <body>
+        <!-- Load the game states -->
+        <script type="text/javascript" src="src/States/LoadingState.js"></script>
+        <script type="text/javascript" src="src/States/WarningState.js"></script>
+        <script type="text/javascript" src="src/States/MenuState.js"></script>
+        <script type="text/javascript" src="src/States/GameplayState.js"></script>
+        <script type="text/javascript" src="src/States/GameOverState.js"></script>
+        <!-- The global variables/functions -->
+        <script type="text/javascript" src="src/Global.js"></script>
+        <!-- init.js sets up Phaser and starts the loading state -->
+        <script type="text/javascript" src="src/init.js"></script>
+
+    </body>
+</html>

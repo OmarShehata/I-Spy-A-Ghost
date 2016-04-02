@@ -1,0 +1,16 @@
+body,html { /* Remove margins and set background color outside the game (so it looks okay even if it doesn't span the whole browser window) */
+    margin: 0px;
+    position: relative;
+    background-color: #120E1C;
+}
+@font-face { /* Load the fonts */
+    font-family: 'patagoniaregular';
+    src: url('Assets/fonts/patagonia-webfont.eot');
+    src: url('Assets/fonts/patagonia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Assets/fonts/patagonia-webfont.woff2') format('woff2'),
+         url('Assets/fonts/patagonia-webfont.woff') format('woff'),
+         url('Assets/fonts/patagonia-webfont.ttf') format('truetype'),
+         url('Assets/fonts/patagonia-webfont.svg#patagoniaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
