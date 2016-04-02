@@ -2,4 +2,4 @@
 
 An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC in 48 hours for Ludum Dare.
 
-More information on how it works and how to run it coming soon!
+TODO: Write instructions on how to run the game and how it works. Add screenshots and video(s).
