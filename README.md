@@ -14,7 +14,13 @@ If you just want to see it run without getting an API key, you can set `debugSta
 
 # Screenshots
 
+![intro_screen](https://raw.githubusercontent.com/OmarShehata/I-Spy-A-Ghost/master/Assets/screenshots/multiplayer_intro.png)
 
+![gameplay](https://raw.githubusercontent.com/OmarShehata/I-Spy-A-Ghost/master/Assets/screenshots/gameplay_1.png)
+
+![ghost_win](https://raw.githubusercontent.com/OmarShehata/I-Spy-A-Ghost/master/Assets/screenshots/ghost_win.png)
+
+![gif](https://raw.githubusercontent.com/OmarShehata/I-Spy-A-Ghost/master/Assets/screenshots/gameplay_2.gif)
 
 # Credits
 
