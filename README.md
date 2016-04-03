@@ -1,5 +1,21 @@
-# I-Spy-A-Ghost
+# I Spy A Ghost
 
-An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC in 48 hours for Ludum Dare.
+An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC in 48 hours for [Ludum Dare](http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=11521). Relies on [PeerJS](http://peerjs.com/) for the networking.
 
-TODO: Write instructions on how to run the game and how it works. Add screenshots and video(s).
+This is an asynchronous game. The human player is trying to survive and kill the ghost by shining a light. The ghost player is trying to kill the human by dropping something on him. **Neither player can fully see the other on their screen!** The game is meant to be played in the same room and peeking over shoulders is encouraged. 
+
+# How to Run
+
+* Download this repository
+* Get an API key from [peerjs.com](http://peerjs.com/) and add it in src/Global.js
+* Run a local web server (the easiest way is with Python)
+
+If you just want to see it run without getting an API key, you can set `debugStart` in src/Global.js to be either 'pc' or 'mobile' to see how those look. (Multiplayer feature won't work then.)
+
+# Screenshots
+
+# Credits
+
+Programming & Design by Omar Shehata (author of this repo)
+Art by Tak (@Takorri)
+Music by a fantastic person on Newgrounds whose name/account I unfourtunately have lost. 
