@@ -12,6 +12,18 @@ This is an asynchronous game. The human player is trying to survive and kill the
 
 If you just want to see it run without getting an API key, you can set `debugStart` in src/Global.js to be either 'pc' or 'mobile' to see how those look. (Multiplayer feature won't work then.)
 
+# How to Play (Controls)
+
+**Human (Desktop) Player**
+* Move with WASD/Arrow keys
+* Press Z or K to attack 
+* Your goal is to shine the light on the ghost
+
+**Ghost (Mobile) Player**
+* Tap anywhere to move 
+* Tap on your character to drop an anvil 
+* Your goal is to drop something on the player
+
 # Screenshots
 
 ![intro_screen](https://raw.githubusercontent.com/OmarShehata/I-Spy-A-Ghost/master/Assets/screenshots/multiplayer_intro.png)
