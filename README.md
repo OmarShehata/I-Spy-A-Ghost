@@ -12,6 +12,8 @@ This is an asynchronous game. The human player is trying to survive and kill the
 
 If you just want to see it run without getting an API key, you can set `debugStart` in src/Global.js to be either 'pc' or 'mobile' to see how those look. (Multiplayer feature won't work then.)
 
+[Here's a version](http://omarshehata.me/html/ludum/) hosted on my personal website. (If it doesn't work, I probably accidentally broke my server somehow..)
+
 # How to Play (Controls)
 
 **Human (Desktop) Player**
